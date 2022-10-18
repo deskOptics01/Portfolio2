@@ -1,6 +1,6 @@
 # Portfolio2
 Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
-[Live heroku deployment](https://portfolio-shaheed1.herokuapp.com/)
+[Live heroku deployment](https://Portfolio2.deskoptics01.repl.co)
 
 # Tech used
 * HTML
